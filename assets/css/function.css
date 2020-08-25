@@ -1,0 +1,2 @@
+.f-clearfix{zoom:1}
+.f-clearfix:after{clear:both;content:'';display:block;width:0;height:0;visibility:hidden;}
